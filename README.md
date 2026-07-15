@@ -1,2 +1,2 @@
-# Python_Inicio
+# Python
 Meus Exercicios em Python
